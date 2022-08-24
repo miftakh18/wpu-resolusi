@@ -4,6 +4,9 @@ RENCANAN KONTEN WPU
 ~java
 *se6
 *sea7
+^memakai framework
+vue
 ~fundamental
-~PHP  
+~PHP
+^Laravel
 ~interview
