@@ -3,3 +3,5 @@ WPU RESOLUSI
 ~membuat platform untuk pengelolaan video 
 ~membuat form diskusi
 vlog
+membuat marge shop
+kiolbolarisdas
