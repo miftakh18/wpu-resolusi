@@ -4,5 +4,6 @@ RENCANAN KONTEN WPU
 ~java
 *se6
 *sea7
-~PHP
+~fundamental
+~PHP  
 ~interview
